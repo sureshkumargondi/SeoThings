@@ -24,3 +24,6 @@ Download the file and upload to the root folder of the website you're trying to 
 That's it. 
 
 Just keep it super simple even VA's can handle it. 
+
+Image 
+![Bing Indexnow - Jupyter Notebook 2022-01-28 at 8 32 51 PM](https://user-images.githubusercontent.com/611531/151572607-69eea015-ebab-4e35-b081-cb89b5dbc125.jpg)
